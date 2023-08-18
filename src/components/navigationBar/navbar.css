@@ -1,0 +1,25 @@
+.navbar{
+    display: grid ;
+    grid-template-columns: repeat(8, 1fr);
+    list-style: none;
+    margin-left: 5%;
+    margin-right: 8%;
+    text-align: end;
+    
+}
+
+.navbar span{
+    font-weight: bolder;
+    font-size: 30px;
+    padding-left: 30%;
+}
+
+.navbar button{
+    border-radius: 30px;
+    padding: 4px 10px;
+    border: 1px solid rgb(226, 84, 84);
+}
+
+.navli{
+    color:rgb(85, 81, 81);
+}
